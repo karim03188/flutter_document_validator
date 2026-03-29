@@ -66,5 +66,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>This app uses the camera to scan and validate document images.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app uses your photo library so you can choose a document image.</string>
 </dict>
 </plist>
