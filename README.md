@@ -19,7 +19,9 @@ Runs entirely on the device — no server, no API keys, no internet connection r
 
 ## Screenshots
 
-> Add screenshots here after running on a real device.
+| Result 1 | Result 2 |
+|---|---|
+| ![App screenshot 1](image1.png) | ![App screenshot 2](image2.png) |
 
 ---
 
